@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Blood</folder>
+	<filename>240_F_389844634_5sxoC8IAd76FIECmfs9XqFrSfijGrSwm.jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Blood\240_F_389844634_5sxoC8IAd76FIECmfs9XqFrSfijGrSwm.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>324</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>69</ymin>
+			<xmax>305</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

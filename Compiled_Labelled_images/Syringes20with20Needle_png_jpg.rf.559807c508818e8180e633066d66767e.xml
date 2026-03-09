@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>Syringes20with20Needle_png_jpg.rf.559807c508818e8180e633066d66767e.jpg</filename>
+	<path>Syringes20with20Needle_png_jpg.rf.559807c508818e8180e633066d66767e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

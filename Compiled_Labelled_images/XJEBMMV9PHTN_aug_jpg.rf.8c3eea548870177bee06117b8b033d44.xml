@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>XJEBMMV9PHTN_aug_jpg.rf.8c3eea548870177bee06117b8b033d44.jpg</filename>
+	<path>XJEBMMV9PHTN_aug_jpg.rf.8c3eea548870177bee06117b8b033d44.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

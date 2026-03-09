@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>STMTY79X1NM1_jpg.rf.b13199dbbae0f29f4bdf699bab044417.jpg</filename>
+	<path>STMTY79X1NM1_jpg.rf.b13199dbbae0f29f4bdf699bab044417.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

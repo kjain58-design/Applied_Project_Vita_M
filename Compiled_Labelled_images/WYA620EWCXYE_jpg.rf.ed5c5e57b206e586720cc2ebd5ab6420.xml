@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>WYA620EWCXYE_jpg.rf.ed5c5e57b206e586720cc2ebd5ab6420.jpg</filename>
+	<path>WYA620EWCXYE_jpg.rf.ed5c5e57b206e586720cc2ebd5ab6420.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

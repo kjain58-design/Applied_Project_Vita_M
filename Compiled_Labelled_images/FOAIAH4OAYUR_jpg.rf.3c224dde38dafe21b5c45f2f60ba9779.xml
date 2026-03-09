@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>FOAIAH4OAYUR_jpg.rf.3c224dde38dafe21b5c45f2f60ba9779.jpg</filename>
+	<path>FOAIAH4OAYUR_jpg.rf.3c224dde38dafe21b5c45f2f60ba9779.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dangerous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>261</xmin>
+			<xmax>379</xmax>
+			<ymin>7</ymin>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

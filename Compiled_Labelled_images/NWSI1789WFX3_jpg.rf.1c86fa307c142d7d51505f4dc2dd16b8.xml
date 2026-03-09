@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>NWSI1789WFX3_jpg.rf.1c86fa307c142d7d51505f4dc2dd16b8.jpg</filename>
+	<path>NWSI1789WFX3_jpg.rf.1c86fa307c142d7d51505f4dc2dd16b8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

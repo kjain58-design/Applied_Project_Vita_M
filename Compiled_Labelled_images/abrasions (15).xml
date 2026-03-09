@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Blood_2</folder>
+	<filename>abrasions (15).jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Lacerations_with_XML\Blood_2\abrasions (15).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>327</ymin>
+			<xmax>231</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

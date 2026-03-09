@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>IJG2K32APO2V_aug_jpg.rf.9584efdb6b32723c689add9a8edcbb24.jpg</filename>
+	<path>IJG2K32APO2V_aug_jpg.rf.9584efdb6b32723c689add9a8edcbb24.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

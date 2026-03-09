@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>ZYTVIXR9PUDM_jpg.rf.91cfa6bb36abb47c19f67c4c6c29031a.jpg</filename>
+	<path>ZYTVIXR9PUDM_jpg.rf.91cfa6bb36abb47c19f67c4c6c29031a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

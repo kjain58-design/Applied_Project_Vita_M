@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>GOPR0802-2-_mp4-0160_jpg.rf.92b81810aa00a5ab88af35289ad29c9f.jpg</filename>
+	<path>GOPR0802-2-_mp4-0160_jpg.rf.92b81810aa00a5ab88af35289ad29c9f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>T5CAIXJ2P61G_jpg.rf.f15e5a483c32e07cad479b98d1d8f89c.jpg</filename>
+	<path>T5CAIXJ2P61G_jpg.rf.f15e5a483c32e07cad479b98d1d8f89c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

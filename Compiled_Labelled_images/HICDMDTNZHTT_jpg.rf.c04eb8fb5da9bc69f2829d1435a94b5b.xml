@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>HICDMDTNZHTT_jpg.rf.c04eb8fb5da9bc69f2829d1435a94b5b.jpg</filename>
+	<path>HICDMDTNZHTT_jpg.rf.c04eb8fb5da9bc69f2829d1435a94b5b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

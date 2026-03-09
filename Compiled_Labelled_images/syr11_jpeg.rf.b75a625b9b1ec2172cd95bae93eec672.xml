@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>syr11_jpeg.rf.b75a625b9b1ec2172cd95bae93eec672.jpg</filename>
+	<path>syr11_jpeg.rf.b75a625b9b1ec2172cd95bae93eec672.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>syringe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>267</xmin>
+			<xmax>384</xmax>
+			<ymin>168</ymin>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

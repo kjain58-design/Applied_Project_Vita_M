@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>KY2SZAXT4DRV_jpg.rf.cbbdf6e6f40a07b5903058f1db74f0f8.jpg</filename>
+	<path>KY2SZAXT4DRV_jpg.rf.cbbdf6e6f40a07b5903058f1db74f0f8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

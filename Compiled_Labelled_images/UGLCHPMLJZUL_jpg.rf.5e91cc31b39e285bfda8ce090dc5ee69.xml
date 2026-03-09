@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>UGLCHPMLJZUL_jpg.rf.5e91cc31b39e285bfda8ce090dc5ee69.jpg</filename>
+	<path>UGLCHPMLJZUL_jpg.rf.5e91cc31b39e285bfda8ce090dc5ee69.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

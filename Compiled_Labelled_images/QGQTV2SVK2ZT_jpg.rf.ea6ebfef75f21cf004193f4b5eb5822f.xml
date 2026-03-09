@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>QGQTV2SVK2ZT_jpg.rf.ea6ebfef75f21cf004193f4b5eb5822f.jpg</filename>
+	<path>QGQTV2SVK2ZT_jpg.rf.ea6ebfef75f21cf004193f4b5eb5822f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

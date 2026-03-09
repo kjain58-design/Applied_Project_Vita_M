@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lacerations - Copy</folder>
+	<filename>abrasions (83).jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Lacerations - Copy\abrasions (83).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abarasion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>237</ymin>
+			<xmax>500</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

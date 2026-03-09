@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cc545bc71a3c8629_jpg.rf.3866684449ee597ce5c093ed68757219.jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Equipment_with_XML\syringe.v2i.voc (2)\train\cc545bc71a3c8629_jpg.rf.3866684449ee597ce5c093ed68757219.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dangerous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>275</ymin>
+			<xmax>399</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

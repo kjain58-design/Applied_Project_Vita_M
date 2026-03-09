@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>KJKQPTLN52S7_jpg.rf.b5b4b95da9dfc2a04a42f3c91b8e7c1b.jpg</filename>
+	<path>KJKQPTLN52S7_jpg.rf.b5b4b95da9dfc2a04a42f3c91b8e7c1b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

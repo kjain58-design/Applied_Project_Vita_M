@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>hazardous-medical-waste-needs-to-be-carefully-disposed-incineration-items-include-clinical-such-as-used-syringes-57780947_jpg.rf.1bf0f51e5fe396c82478b1979c3050af.jpg</filename>
+	<path>hazardous-medical-waste-needs-to-be-carefully-disposed-incineration-items-include-clinical-such-as-used-syringes-57780947_jpg.rf.1bf0f51e5fe396c82478b1979c3050af.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

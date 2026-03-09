@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>cut-37-_jpg.rf.e08492696f7698408e3b1f09e272ba1c.jpg</filename>
+	<path>cut-37-_jpg.rf.e08492696f7698408e3b1f09e272ba1c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>237</xmin>
+			<xmax>361</xmax>
+			<ymin>28</ymin>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

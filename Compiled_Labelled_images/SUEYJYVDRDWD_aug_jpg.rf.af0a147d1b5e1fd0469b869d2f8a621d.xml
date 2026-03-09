@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>SUEYJYVDRDWD_aug_jpg.rf.af0a147d1b5e1fd0469b869d2f8a621d.jpg</filename>
+	<path>SUEYJYVDRDWD_aug_jpg.rf.af0a147d1b5e1fd0469b869d2f8a621d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

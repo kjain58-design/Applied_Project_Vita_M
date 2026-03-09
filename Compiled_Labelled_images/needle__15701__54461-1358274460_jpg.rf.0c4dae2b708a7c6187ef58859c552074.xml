@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>needle__15701__54461-1358274460_jpg.rf.0c4dae2b708a7c6187ef58859c552074.jpg</filename>
+	<path>needle__15701__54461-1358274460_jpg.rf.0c4dae2b708a7c6187ef58859c552074.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>G9MWM8GREBMZ_jpg.rf.82cfc48f61024a585803df30a3f1a105.jpg</filename>
+	<path>G9MWM8GREBMZ_jpg.rf.82cfc48f61024a585803df30a3f1a105.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

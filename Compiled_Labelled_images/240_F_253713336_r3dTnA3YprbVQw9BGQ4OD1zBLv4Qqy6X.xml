@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cut2</folder>
+	<filename>240_F_253713336_r3dTnA3YprbVQw9BGQ4OD1zBLv4Qqy6X.jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Lacerations - Copy\cut2\240_F_253713336_r3dTnA3YprbVQw9BGQ4OD1zBLv4Qqy6X.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laceration</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>132</ymin>
+			<xmax>210</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

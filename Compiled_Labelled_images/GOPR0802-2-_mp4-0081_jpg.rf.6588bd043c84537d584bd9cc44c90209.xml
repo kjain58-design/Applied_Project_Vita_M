@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>GOPR0802-2-_mp4-0081_jpg.rf.6588bd043c84537d584bd9cc44c90209.jpg</filename>
+	<path>GOPR0802-2-_mp4-0081_jpg.rf.6588bd043c84537d584bd9cc44c90209.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tourniquet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>243</xmin>
+			<xmax>390</xmax>
+			<ymin>83</ymin>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

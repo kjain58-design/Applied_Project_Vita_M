@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>guide-hazardous-needlesyringe_jpg.rf.06070910d8190a8798f6c6e029aefcd8.jpg</filename>
+	<path>guide-hazardous-needlesyringe_jpg.rf.06070910d8190a8798f6c6e029aefcd8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

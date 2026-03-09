@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>SYR-disposable-syringes_jpg.rf.1ae7af2a13c5155765a439dfbb558f44.jpg</filename>
+	<path>SYR-disposable-syringes_jpg.rf.1ae7af2a13c5155765a439dfbb558f44.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

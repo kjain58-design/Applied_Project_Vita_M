@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>TZH447SDUVV2_jpg.rf.baa07938fb3c6349099aec86a3d7fb36.jpg</filename>
+	<path>TZH447SDUVV2_jpg.rf.baa07938fb3c6349099aec86a3d7fb36.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

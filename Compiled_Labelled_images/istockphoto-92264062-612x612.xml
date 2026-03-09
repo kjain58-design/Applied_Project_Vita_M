@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cut2</folder>
+	<filename>istockphoto-92264062-612x612.jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Lacerations - Copy\cut2\istockphoto-92264062-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>406</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laceration</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>157</ymin>
+			<xmax>376</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>RYKZCUIM8CQM_jpg.rf.430f88e6ee70cabaeba4cadc0a282dd0.jpg</filename>
+	<path>RYKZCUIM8CQM_jpg.rf.430f88e6ee70cabaeba4cadc0a282dd0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>cole-parmer-cole-parmer-clear-disposable-syringes-73351_jpg.rf.be0e6b3f0a813bfcd7349ad4e3a00fd9.jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Equipment_with_XML\syringe.v2i.voc (2)\train\cole-parmer-cole-parmer-clear-disposable-syringes-73351_jpg.rf.be0e6b3f0a813bfcd7349ad4e3a00fd9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dangerous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>175</ymin>
+			<xmax>632</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

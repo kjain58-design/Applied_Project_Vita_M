@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>Syringes_Blood_Draw_1340x796_png_jpg.rf.97a099d098f40a2a396d7bf8ca35b1c7.jpg</filename>
+	<path>Syringes_Blood_Draw_1340x796_png_jpg.rf.97a099d098f40a2a396d7bf8ca35b1c7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

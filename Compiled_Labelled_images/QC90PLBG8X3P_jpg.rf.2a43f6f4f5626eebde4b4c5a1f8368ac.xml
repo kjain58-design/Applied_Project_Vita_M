@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>QC90PLBG8X3P_jpg.rf.2a43f6f4f5626eebde4b4c5a1f8368ac.jpg</filename>
+	<path>QC90PLBG8X3P_jpg.rf.2a43f6f4f5626eebde4b4c5a1f8368ac.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

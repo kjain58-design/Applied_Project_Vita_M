@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>Syrings_2part_Vitrex102943_2000x800px_jpg.rf.501dc84e6444bb77160132cd84eadd45.jpg</filename>
+	<path>Syrings_2part_Vitrex102943_2000x800px_jpg.rf.501dc84e6444bb77160132cd84eadd45.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>G5ULVPN6CHQD_jpg.rf.c626ea5f6d5fc9c90f96312355ee87ee.jpg</filename>
+	<path>G5ULVPN6CHQD_jpg.rf.c626ea5f6d5fc9c90f96312355ee87ee.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

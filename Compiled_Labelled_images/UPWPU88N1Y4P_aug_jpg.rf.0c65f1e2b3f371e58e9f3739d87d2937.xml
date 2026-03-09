@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>UPWPU88N1Y4P_aug_jpg.rf.0c65f1e2b3f371e58e9f3739d87d2937.jpg</filename>
+	<path>UPWPU88N1Y4P_aug_jpg.rf.0c65f1e2b3f371e58e9f3739d87d2937.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

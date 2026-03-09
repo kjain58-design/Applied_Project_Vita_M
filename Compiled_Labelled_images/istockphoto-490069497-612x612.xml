@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Blood</folder>
+	<filename>istockphoto-490069497-612x612.jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Blood\istockphoto-490069497-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>142</ymin>
+			<xmax>396</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

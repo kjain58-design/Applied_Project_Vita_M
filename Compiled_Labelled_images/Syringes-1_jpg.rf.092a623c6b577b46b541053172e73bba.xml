@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>Syringes-1_jpg.rf.092a623c6b577b46b541053172e73bba.jpg</filename>
+	<path>Syringes-1_jpg.rf.092a623c6b577b46b541053172e73bba.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

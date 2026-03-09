@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>TAGZX3MOVOV3_jpg.rf.379b3e1fe25190ce199e0c63c3d7838a.jpg</filename>
+	<path>TAGZX3MOVOV3_jpg.rf.379b3e1fe25190ce199e0c63c3d7838a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

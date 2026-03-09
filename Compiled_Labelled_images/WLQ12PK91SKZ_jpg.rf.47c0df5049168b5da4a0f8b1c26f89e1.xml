@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>WLQ12PK91SKZ_jpg.rf.47c0df5049168b5da4a0f8b1c26f89e1.jpg</filename>
+	<path>WLQ12PK91SKZ_jpg.rf.47c0df5049168b5da4a0f8b1c26f89e1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

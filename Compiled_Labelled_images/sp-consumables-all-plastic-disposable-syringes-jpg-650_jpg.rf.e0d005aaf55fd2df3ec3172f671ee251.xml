@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>sp-consumables-all-plastic-disposable-syringes-jpg-650_jpg.rf.e0d005aaf55fd2df3ec3172f671ee251.jpg</filename>
+	<path>sp-consumables-all-plastic-disposable-syringes-jpg-650_jpg.rf.e0d005aaf55fd2df3ec3172f671ee251.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

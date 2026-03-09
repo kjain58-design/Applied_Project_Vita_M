@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>LPNY025PG235_jpg.rf.e351fdbee5bd2b204a74bd095d2007ca.jpg</filename>
+	<path>LPNY025PG235_jpg.rf.e351fdbee5bd2b204a74bd095d2007ca.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

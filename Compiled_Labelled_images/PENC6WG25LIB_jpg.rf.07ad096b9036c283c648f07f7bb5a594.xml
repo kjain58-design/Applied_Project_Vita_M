@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>PENC6WG25LIB_jpg.rf.07ad096b9036c283c648f07f7bb5a594.jpg</filename>
+	<path>PENC6WG25LIB_jpg.rf.07ad096b9036c283c648f07f7bb5a594.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

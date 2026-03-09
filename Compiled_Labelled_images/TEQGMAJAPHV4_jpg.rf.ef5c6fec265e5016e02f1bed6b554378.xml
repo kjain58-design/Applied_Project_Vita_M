@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>TEQGMAJAPHV4_jpg.rf.ef5c6fec265e5016e02f1bed6b554378.jpg</filename>
+	<path>TEQGMAJAPHV4_jpg.rf.ef5c6fec265e5016e02f1bed6b554378.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

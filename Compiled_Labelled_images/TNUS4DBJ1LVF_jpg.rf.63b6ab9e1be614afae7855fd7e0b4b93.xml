@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>TNUS4DBJ1LVF_jpg.rf.63b6ab9e1be614afae7855fd7e0b4b93.jpg</filename>
+	<path>TNUS4DBJ1LVF_jpg.rf.63b6ab9e1be614afae7855fd7e0b4b93.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

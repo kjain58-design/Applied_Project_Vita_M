@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>R1IDKFR1ECMT_jpg.rf.ff0af9005f2bebe51f77a35b7daac799.jpg</filename>
+	<path>R1IDKFR1ECMT_jpg.rf.ff0af9005f2bebe51f77a35b7daac799.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

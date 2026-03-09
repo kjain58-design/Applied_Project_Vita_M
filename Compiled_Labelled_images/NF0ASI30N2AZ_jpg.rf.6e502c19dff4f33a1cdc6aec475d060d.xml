@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>NF0ASI30N2AZ_jpg.rf.6e502c19dff4f33a1cdc6aec475d060d.jpg</filename>
+	<path>NF0ASI30N2AZ_jpg.rf.6e502c19dff4f33a1cdc6aec475d060d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>SLTLCREZ6IEC_jpg.rf.2b0e55bf742c06200f29841e6f8b2529.jpg</filename>
+	<path>SLTLCREZ6IEC_jpg.rf.2b0e55bf742c06200f29841e6f8b2529.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

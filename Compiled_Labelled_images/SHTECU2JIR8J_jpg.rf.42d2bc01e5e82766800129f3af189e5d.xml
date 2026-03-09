@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>SHTECU2JIR8J_jpg.rf.42d2bc01e5e82766800129f3af189e5d.jpg</filename>
+	<path>SHTECU2JIR8J_jpg.rf.42d2bc01e5e82766800129f3af189e5d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

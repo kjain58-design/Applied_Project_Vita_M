@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Syring_with_xml</folder>
+	<filename>images-48-_jpg.rf.a98b11708deea07e66707b7fc84c10eb.jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Equipment_with_XML\Syringe.v2i.voc\Syring_with_xml\images-48-_jpg.rf.a98b11708deea07e66707b7fc84c10eb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>syringe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>41</ymin>
+			<xmax>612</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>

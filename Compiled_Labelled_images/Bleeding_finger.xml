@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Blood</folder>
+	<filename>Bleeding_finger.jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Blood\Bleeding_finger.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2288</width>
+		<height>1712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>933</xmin>
+			<ymin>730</ymin>
+			<xmax>1677</xmax>
+			<ymax>1313</ymax>
+		</bndbox>
+	</object>
+</annotation>

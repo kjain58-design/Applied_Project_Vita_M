@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>e33bec52f48b09b4_jpg.rf.51cda85419c90a2ffb3f28ad0a7e5425.jpg</filename>
+	<path>e33bec52f48b09b4_jpg.rf.51cda85419c90a2ffb3f28ad0a7e5425.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dangerous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>73</xmin>
+			<xmax>529</xmax>
+			<ymin>13</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

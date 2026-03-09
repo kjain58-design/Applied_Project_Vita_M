@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>NTE14BF1K3GH_jpg.rf.f3ea65a572e7dd66d4598ff2740415c9.jpg</filename>
+	<path>NTE14BF1K3GH_jpg.rf.f3ea65a572e7dd66d4598ff2740415c9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

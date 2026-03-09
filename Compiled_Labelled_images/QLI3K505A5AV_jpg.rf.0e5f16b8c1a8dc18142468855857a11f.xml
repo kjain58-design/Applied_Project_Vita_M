@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>QLI3K505A5AV_jpg.rf.0e5f16b8c1a8dc18142468855857a11f.jpg</filename>
+	<path>QLI3K505A5AV_jpg.rf.0e5f16b8c1a8dc18142468855857a11f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

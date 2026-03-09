@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>KakaoTalk_20250901_143350470_mp4-0330_jpg.rf.363acd3e5c381fb692886b09c6a0247e.jpg</filename>
+	<path>KakaoTalk_20250901_143350470_mp4-0330_jpg.rf.363acd3e5c381fb692886b09c6a0247e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tourniquet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>105</xmin>
+			<xmax>506</xmax>
+			<ymin>159</ymin>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

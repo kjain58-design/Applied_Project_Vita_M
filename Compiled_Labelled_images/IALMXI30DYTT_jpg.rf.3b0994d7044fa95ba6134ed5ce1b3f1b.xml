@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>IALMXI30DYTT_jpg.rf.3b0994d7044fa95ba6134ed5ce1b3f1b.jpg</filename>
+	<path>IALMXI30DYTT_jpg.rf.3b0994d7044fa95ba6134ed5ce1b3f1b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

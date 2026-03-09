@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>TCTLTB7TMJ76_jpg.rf.ae7276258395bb988c2b5c39c0e1891e.jpg</filename>
+	<path>TCTLTB7TMJ76_jpg.rf.ae7276258395bb988c2b5c39c0e1891e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

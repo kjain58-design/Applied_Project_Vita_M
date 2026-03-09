@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>IZINTVC5GT4Q_jpg.rf.6e18b7a08dd6eb1f7144a8a7db1cecde.jpg</filename>
+	<path>IZINTVC5GT4Q_jpg.rf.6e18b7a08dd6eb1f7144a8a7db1cecde.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

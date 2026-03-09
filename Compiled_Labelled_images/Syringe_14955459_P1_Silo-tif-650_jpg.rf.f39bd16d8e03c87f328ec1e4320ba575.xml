@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>Syringe_14955459_P1_Silo-tif-650_jpg.rf.f39bd16d8e03c87f328ec1e4320ba575.jpg</filename>
+	<path>Syringe_14955459_P1_Silo-tif-650_jpg.rf.f39bd16d8e03c87f328ec1e4320ba575.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

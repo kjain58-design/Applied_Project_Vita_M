@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>IQCGMCTV7OQS_jpg.rf.f29f10db73faaef538f3c7533360f73d.jpg</filename>
+	<path>IQCGMCTV7OQS_jpg.rf.f29f10db73faaef538f3c7533360f73d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cut2</folder>
+	<filename>mirrored_cut (30).jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Lacerations - Copy\cut2\mirrored_cut (30).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laceration</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>161</ymin>
+			<xmax>274</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

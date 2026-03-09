@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>89LNV20SNIPZ_jpg.rf.191c34c0f80415c21cda8e4d09f273a6.jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Equipment_with_XML\syringe.v2i.voc (2)\train\89LNV20SNIPZ_jpg.rf.191c34c0f80415c21cda8e4d09f273a6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dangerous</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>451</ymin>
+			<xmax>491</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>extra</folder>
+	<filename>mirrored_abrasions (29).jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Lacerations_with_XML\Blood_2\extra\mirrored_abrasions (29).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abarasion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>56</ymin>
+			<xmax>512</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

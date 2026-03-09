@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>QFILEAMTT7UN_jpg.rf.6b24833ec1ed20e8c626ee7d822e50a5.jpg</filename>
+	<path>QFILEAMTT7UN_jpg.rf.6b24833ec1ed20e8c626ee7d822e50a5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

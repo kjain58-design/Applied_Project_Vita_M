@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>9_mp4-0064_jpg.rf.0067c55b87402d50b993c25363165dbf.jpg</filename>
+	<path>9_mp4-0064_jpg.rf.0067c55b87402d50b993c25363165dbf.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tourniquet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>343</xmin>
+			<xmax>409</xmax>
+			<ymin>1</ymin>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Blood</folder>
+	<filename>c0515406-800px-wm.jpg</filename>
+	<path>C:\Applied_project_Vita_M\Object detection\Images\Blood\c0515406-800px-wm.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>164</ymin>
+			<xmax>543</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

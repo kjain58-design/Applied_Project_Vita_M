@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>abrasions-68-_jpg.rf.025b83dcbdd3246bc6004fd862cab73b.jpg</filename>
+	<path>abrasions-68-_jpg.rf.025b83dcbdd3246bc6004fd862cab73b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abrasions</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>170</xmin>
+			<xmax>296</xmax>
+			<ymin>146</ymin>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>VHOE6LTT32BV_aug_jpg.rf.0af5c528c26866c1c708e76f625de3c5.jpg</filename>
+	<path>VHOE6LTT32BV_aug_jpg.rf.0af5c528c26866c1c708e76f625de3c5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>GFK549SOHCVX_aug_jpg.rf.da0f98fa7e7b80140b35f287aeb82459.jpg</filename>
+	<path>GFK549SOHCVX_aug_jpg.rf.da0f98fa7e7b80140b35f287aeb82459.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

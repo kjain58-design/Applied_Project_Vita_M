@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>KAMHO33RF2EM_aug_jpg.rf.d6f7cf0e7349c33b813c024b055d14ce.jpg</filename>
+	<path>KAMHO33RF2EM_aug_jpg.rf.d6f7cf0e7349c33b813c024b055d14ce.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

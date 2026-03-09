@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>TSU34Z3YAN47_jpg.rf.eac151b8bf46083dd57defc7863bd38c.jpg</filename>
+	<path>TSU34Z3YAN47_jpg.rf.eac151b8bf46083dd57defc7863bd38c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

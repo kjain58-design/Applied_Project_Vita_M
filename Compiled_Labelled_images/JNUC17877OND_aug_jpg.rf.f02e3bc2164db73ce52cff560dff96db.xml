@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>JNUC17877OND_aug_jpg.rf.f02e3bc2164db73ce52cff560dff96db.jpg</filename>
+	<path>JNUC17877OND_aug_jpg.rf.f02e3bc2164db73ce52cff560dff96db.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

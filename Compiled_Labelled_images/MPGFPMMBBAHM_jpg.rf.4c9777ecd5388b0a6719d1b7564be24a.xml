@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>MPGFPMMBBAHM_jpg.rf.4c9777ecd5388b0a6719d1b7564be24a.jpg</filename>
+	<path>MPGFPMMBBAHM_jpg.rf.4c9777ecd5388b0a6719d1b7564be24a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

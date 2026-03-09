@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>10_mp4-0000_jpg.rf.7fd165195294565b46eee59a145c09a7.jpg</filename>
+	<path>C:\Users\Kirti Jain\Downloads\Tourniquet.v4i.voc\train\10_mp4-0000_jpg.rf.7fd165195294565b46eee59a145c09a7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tourniquet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>388</ymin>
+			<xmax>259</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

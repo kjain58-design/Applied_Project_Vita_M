@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>MTF24UQU2SBD_jpg.rf.1c515b96a4a007d3983d4209f43dcc47.jpg</filename>
+	<path>MTF24UQU2SBD_jpg.rf.1c515b96a4a007d3983d4209f43dcc47.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>SR2OUXWYT262_jpg.rf.5e767379597c4c1675091950ee7101ae.jpg</filename>
+	<path>SR2OUXWYT262_jpg.rf.5e767379597c4c1675091950ee7101ae.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>
