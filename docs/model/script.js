@@ -33,7 +33,8 @@ let runningMode = "IMAGE";
 // Initialize the object detector
 const initializeObjectDetector = async () => {
     const vision = await FilesetResolver.forVisionTasks("https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.2/wasm");
-    var x = "./model.tflite";
+   // var x = "./model.tflite";
+    var x = './model_fp16.tflite'
     console.log(x);
     objectDetector = await ObjectDetector.createFromOptions(vision, {
         baseOptions: {
